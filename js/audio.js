@@ -13,7 +13,7 @@ const musicList = [
     {
         title: "Moonlight Sonata",
         artist: "贝多芬",
-        src: "MP3/music1.mp3",
+        src: "/time-A12/mp3/music1.mp3",
         cover: "./img/record1.jpg",
         bg: "./img/bg1.png",
         video: "./video/video1.mp4"
@@ -21,7 +21,7 @@ const musicList = [
     {
         title: "Jazz Night",
         artist: "Louis Armstrong",
-        src: "MP3/music2.mp3",
+        src: "/time-A12/mp3/music2.mp3",
         cover: "./img/record2.jpg",
         bg: "./img/bg2.png",
         video: "./video/video2.mp4"
@@ -29,7 +29,7 @@ const musicList = [
     {
         title: "City Lights",
         artist: "Tokyo Night",
-        src: "MP4/video3.mp4",
+        src: "/time-A12/mp4/video3.mp4",
         cover: "./img/record3.jpg",
         bg: "./img/bg3.png",
         video: "./video/video3.mp4"

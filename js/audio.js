@@ -5,7 +5,7 @@ const musicList = [
     {
         title: "Summer Vibe",
         artist: "25216950217邹庆伟",
-        src: "/mp3/music0.mp3",
+        src: "/time-A12/mp3/music0.mp3",
         cover: "/img/record0.jpg",
         bg: "./img/bg0.png",
         video: "./video/video0.mp4"
@@ -13,7 +13,7 @@ const musicList = [
     {
         title: "Moonlight Sonata",
         artist: "贝多芬",
-        src: "./mp3/music1.mp3",
+        src: "/time-A12/mp3/music1.mp3",
         cover: "./img/record1.jpg",
         bg: "./img/bg1.png",
         video: "./video/video1.mp4"
